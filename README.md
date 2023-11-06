@@ -35,25 +35,7 @@ This application was built as a way to allow freelance web developers to create 
 
 ## Live Screen Recording of Application Functionality
 
-https://drive.google.com/file/d/1LLAhUArgzn2YfI_or0DXp4N9ZcsTPUdZ/view
-
-## Screenshots
-
-Logo Generation
-
-![Screenshot1-week-10-challenge](https://user-images.githubusercontent.com/120127903/232142589-86370721-ab54-4ff4-af4d-46a40fbb5d5f.png)
-
-![Screenshot2-week-10-challenge](https://user-images.githubusercontent.com/120127903/232142612-728f43cb-174a-4370-9847-e3ebb10ee23b.png)
-
-![Screenshot3-week-10-challenge](https://user-images.githubusercontent.com/120127903/232144018-62741d39-3e09-492c-be82-125e38f91521.png)
-
-Examples of Generated Logos
-
-<img width="226" alt="Screenshot4-week-10-challenge" src="https://user-images.githubusercontent.com/120127903/232142654-9a5a9937-e831-4838-86a1-4323c7b9cc39.png">
-
-<img width="245" alt="Screenshot5-week-10-challenge" src="https://user-images.githubusercontent.com/120127903/232142705-29cd92d9-1c12-46ce-a81a-64893ac15a00.png">
-
-<img width="214" alt="Screenshot6-week-10-challenge" src="https://user-images.githubusercontent.com/120127903/232142727-5c9ce441-1ca7-443a-bb5f-391b3f0003cf.png">
+https://drive.google.com/file/d/1sEoWD_dUJw2z4jhBEUd90tevv78eI5Ou/view
 
 ## Technologies Used
 
@@ -62,7 +44,7 @@ This project is powered by Node.js v16, utilizes inquirer v8.2.4 (node package m
 ## Installation
 
 1. Clone the repo:
-   git clone https://github.com/rmessett15/SVG-Logo-Maker.git
+   git clone https://github.com/Emareaun/SVG-logo
 
 2. Open in VS Code. If you do not have VS code you must install it.
 
@@ -97,13 +79,6 @@ Open to collaboration, if you choose to do so open an issue and modify any chang
 To run unit testing, open the terminal, and use the command npm run test.
 
 As of now there is one test suite with three tests. The test suite is checking for a render() method to return a string for the corresponding SVG file with the given shape color.
-
-![Screenshot7-week-10-challenge](https://user-images.githubusercontent.com/120127903/232142736-a2ed7de2-b924-4536-9f51-e9c6cd5fb1db.png)
-
-![Screenshot8-week-10-challenge](https://user-images.githubusercontent.com/120127903/232142745-dfe8aab8-4da0-4e8f-89b6-d153f2024825.png)
-
-![Screenshot9-week-10-challenge](https://user-images.githubusercontent.com/120127903/232142780-b9158992-dced-4da8-be89-e828b81f6023.png)
-
 ## License
 
 NOTICE: This application is covered under the MIT License
@@ -112,6 +87,6 @@ NOTICE: This application is covered under the MIT License
 
 Have additional questions? Click the links below to reach me through my GitHub account or Email address.
 
-[Link to Github](https://github.com/rmessett15)
+[Link to Github](https://github.com/Emareaun)
 
 <a href="mailto:emareaun12345@gmail.com">emareaun12345@gmail.com</a>
